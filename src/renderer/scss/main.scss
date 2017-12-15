@@ -168,13 +168,12 @@ input[placeholder] { text-overflow: ellipsis; }
 
   #fetch-playlist-result {
     position: absolute;
-    bottom: 0;
-    width: 100%;
-    padding: 10px;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
     text-align: center;
-    color: #fff;
  
-    &.success { background: $color-green; }
-    &.error { background: $color-red; }
+    &.success { color: $color-green; }
+    &.error { color: $color-red; }
   }
 }

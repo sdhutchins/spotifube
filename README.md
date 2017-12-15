@@ -1,6 +1,6 @@
 # Spotifube
 
-A `GUI` for [@ritiek](https://github.com/ritiek)'s [`spotify-downloader`](https://github.com/ritiek/spotify-downloader/) project.
+A `GUI` for the [`spotify-downloader`](https://github.com/ritiek/spotify-downloader/) project.
 
 ## Purpose
 
