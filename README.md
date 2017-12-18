@@ -8,7 +8,7 @@ Spotifube will initially provide (MVP) a simple GUI for [`spotify-downloader`](h
 
 ### What is spotify-downloader
 
-[`spotify-downloader`](https://github.com/ritiek/spotify-downloader/) is a command-line tool that matches Spotify tracks/playlists to youtube videos and downloads them as mp3/m4a, with id3, album art, etc.
+[`spotify-downloader`](https://github.com/ritiek/spotify-downloader/) is a command-line tool that matches Spotify tracks/playlists to Youtube videos and downloads them as mp3/m4a, with id3, album art, etc.
 
 ## Contributing
 
